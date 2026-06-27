@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Abdullah Farooq 👋
 
-🎓 BS Artificial Inntelligence Student (SMI University)
+🎓 BS Artificial Intelligence Student (SMI University)
 💻 Interested in Artificial Intelligence, Data Science, and Technology
 📈 Exploring Python, Analytics, and Real-World Problem Solving
 
