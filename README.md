@@ -33,6 +33,8 @@ Python • Git • GitHub
 | [Calculator using Functions](https://github.com/osaid400/Calculator-Using-Functions.git) | A beginner Python console calculator built with functions and proper error handling.|
 | [Employees Management System](https://github.com/osaid400/Employees_Managment_System.git) | A simple Employees Management System built with python to practice CRUD operations, functions, and exception handling. |
 | [Inventory Management System](https://github.com/osaid400/Inventory-Management-System.git) | A Python Inventory Management System using CRUD operations, input vaalidation, and exception handling. |
+| [Expense Tracker System](https://github.com/osaid400/Expense-Tracker-System.git) | A Console based Expense Tracker System built with Python featuring CRUD Operations, Expense analysis, and input validation. | 
+| [Contact Book System](https://github.com/osaid400/Contact-Book-System.git) | A console based Contact Book System built with Python that demonstrates CRUD Operations, Input Validation, Exception Handlinng and Seatching contacts by ID or Name. |
 
 ---
 
